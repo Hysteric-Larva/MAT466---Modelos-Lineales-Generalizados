@@ -7,4 +7,6 @@ Este curso provee de una introducción a los aspectos básicos de estimación y 
 ## Links de los informes:
 * [Tarea 1](https://www.overleaf.com/read/vnndpmgtjszm#efc1ca)
 * [Tarea 2](https://www.overleaf.com/read/bxktbytzzpfw#8fcbda)
+
+  
 Nota: La tarea 1 no podía exceder las 5 planas y la tarea 2 no podia exceder 3.
